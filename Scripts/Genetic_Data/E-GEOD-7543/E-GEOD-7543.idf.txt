@@ -1,0 +1,49 @@
+Investigation Title	Transcription profiling of human peripheral blood from adults and children individuals exposed to different levels of air pollution	
+Comment[Submitted Name]	Differential gene expression between individuals exposed to different levels of air pollution	
+Experimental Design	unknown_experiment_design_type	transcription profiling by array	
+Experimental Design Term Source REF		EFO	
+Comment[ArrayExpressReleaseDate]	2008-06-15	
+Comment[SecondaryAccession]	GSE7543	
+Comment[AEMIAMESCORE]	2	
+Comment[ArrayExpressAccession]	E-GEOD-7543	
+Comment[MAGETAB TimeStamp_Version]	2011-01-23 05:01:41 Last Changed Rev: 14857	
+Experimental Factor Name	
+Experimental Factor Type	
+Experimental Factor Term Source REF	
+Person Last Name	van Leeuwen	
+Person First Name	Danitsja Maria	
+Person Mid Initials	
+Person Email	
+Person Phone	
+Person Fax	
+Person Address	Health Risk Analysis and Toxicology, Maastricht University, PO Box 616, Maastricht, 6200 MD, Netherlands	
+Person Affiliation	Maastricht University	
+Person Roles	submitter	
+Person Roles Term Source REF		
+Quality Control Type	
+Quality Control Term Source REF	
+Replicate Type	
+Replicate Term Source REF	
+Normalization Type	
+Normalization Term Source REF	
+Date of Experiment	
+Public Release Date	2008-06-15	
+PubMed ID	
+Publication DOI	
+Publication Author List	
+Publication Title	
+Publication Status	
+Publication Status Term Source REF	
+Experiment Description	Comparison of genome-wide gene expression between humans living in areas of high levels of air pollution and less polluted areas. Experiment Overall Design: The study investigated differential gene expression in peripheral blood from 23 children and 12 adults from a region of residence with high levels of air pollution as compared to 24 children and 12 adults from a less-polluted area.Two conditions: living in the polluted or in the less-polluted area. One individual per array, hybridized against a common reference sample	
+Protocol Name	P-G7543-1	P-G7543-3	P-G7543-2	P-G7543-4	P-G7543-5	P-G7543-6	P-G7543-7	P-G7543-8	
+Protocol Type	grow	specified_biomaterial_action	nucleic_acid_extraction	labeling	hybridization	feature_extraction	bioassay_data_transformation	bioassay_data_transformation	
+Protocol Description	No growth protocols were used as RNA was extracted from blood without any ex vivo performances.	Blood collection into PAXgene RNA vacutainers.	Total RNA isolation with PAXgene Blood RNA system according to manufacturer's instructions. Additional DNAse treatment and concentration of material with Qiagens MinElute system according to manufacturer's instructions.	Agilent Low RNA Input Linear Amplification system according to the manufacturer's instructions.	Hybridization according to Agilent instructions.	Scanning on ScanArrayExpress (Perkin Elmer). All slides were scanned with set laser power at 100% and photomultiplier gain at 55% for Cy5 and 60% for Cy3 channel based on previous establishment of ideal scan settings	Data heading descriptions from GEO:<br>#ID_REF = <br>#VALUE = Background corrected, LOWESS normalized. Log (base=2) tranfsormed data of individual/common reference sample	Data heading descriptions from GEO:<br>#ID_REF = <br>#VALUE = Background corrected, LOWESS normalized, log (base=2) tranfsormed data of individual/common reference sample	
+Protocol Parameters	
+Protocol Hardware	
+Protocol Software	
+Protocol Contact	
+Protocol Term Source REF						The MGED Ontology	
+SDRF File	E-GEOD-7543.sdrf.txt	
+Term Source Name	mo		The MGED Ontology	ArrayExpress	EFO	The MGED Ontology	
+Term Source File	http://mged.sourceforge.net/ontologies/MGEDontology.php		http://mged.sourceforge.net/ontologies/MGEDontology.php	http://www.ebi.ac.uk/arrayexpress	http://www.ebi.ac.uk/efo/	http://mged.sourceforge.net/ontologies/MGEDontology.php	
+Term Source Version							
