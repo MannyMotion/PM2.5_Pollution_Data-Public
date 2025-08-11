@@ -1,0 +1,91 @@
+{
+  "Initial shape": [
+    8562,
+    28
+  ],
+  "dropped_empty_columns": [
+    "New data",
+    "Compared to goal"
+  ],
+  "dropped_constant_columns": [
+    "Compared to percentiles",
+    "Time period range"
+  ],
+  "removed_duplicate_rows": 0,
+  "id_columns_kept": [
+    "Area Code",
+    "Area Name",
+    "Count",
+    "Denominator",
+    "Indicator ID",
+    "Lower CI 95.0 limit",
+    "Lower CI 99.8 limit",
+    "Parent Code",
+    "Upper CI 95.0 limit",
+    "Upper CI 99.8 limit",
+    "Value"
+  ],
+  "set_negative_to_nan__Value": 0,
+  "set_negative_to_nan__Count": 0,
+  "set_negative_to_nan__Denominator": 0,
+  "set_negative_to_nan__Lower CI 95.0 limit": 24,
+  "set_negative_to_nan__Upper CI 95.0 limit": 24,
+  "set_negative_to_nan__Lower CI 99.8 limit": 24,
+  "set_negative_to_nan__Upper CI 99.8 limit": 24,
+  "ci95_inverted_pairs_set_nan": 0,
+  "ci998_inverted_pairs_set_nan": 0,
+  "dropped_rows_gt80pct_missing": 0,
+  "shape_after_prefilter": [
+    8562,
+    24
+  ],
+  "train_shape_before_processing": [
+    6849,
+    24
+  ],
+  "test_shape_before_processing": [
+    1713,
+    24
+  ],
+  "numeric_continuous_cols": [],
+  "numeric_categorical_cols": [
+    "Time period Sortable"
+  ],
+  "categorical_text_cols": [
+    "Indicator Name",
+    "Parent Name",
+    "Area Type",
+    "Sex",
+    "Age",
+    "Category Type",
+    "Category",
+    "Time period",
+    "Value note",
+    "Recent Trend",
+    "Compared to England value or percentiles",
+    "Condition"
+  ],
+  "final_train_shape": [
+    6849,
+    96
+  ],
+  "final_test_shape": [
+    1713,
+    96
+  ],
+  "initial_missing_train_counts": {
+    "Indicator Name": 0,
+    "Parent Name": 0,
+    "Area Type": 0,
+    "Sex": 0,
+    "Age": 0,
+    "Category Type": 0,
+    "Category": 0,
+    "Time period": 0,
+    "Value note": 0,
+    "Recent Trend": 0,
+    "Compared to England value or percentiles": 0,
+    "Time period Sortable": 0,
+    "Condition": 0
+  }
+}
